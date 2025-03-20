@@ -1,4 +1,4 @@
-[Node.text]: It is data for all points including garages 0 and 0', 4 berths and 30 yard sections. The first and second columns are the horizontal and vertical coordinates, and the third column is the index assigned to each point.
+[Node.text] is data for all points including garages 0 and 0', 4 berths and 30 yard sections. The first and second columns are the horizontal and vertical coordinates, and the third column is the index assigned to each point.
 
 [GroupS.text], [GroupP.text] and [GroupL.text] are small-scale, practice-scale and large-scale equipped groups information respectively.
 
